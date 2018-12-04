@@ -3,3 +3,4 @@ virtual/
 *.pyc
 .idea
 __pycache__/
+.settings.py
